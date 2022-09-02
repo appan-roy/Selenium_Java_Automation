@@ -1,0 +1,7 @@
+ChromeDriver = E:\\Softwares\\My PC Apps\\Selenium\\Webdrivers\\chromedriver_win32\\chromedriver.exe
+
+FirefoxDriver = E:\\Softwares\\My PC Apps\\Selenium\\Webdrivers\\geckodriver-v0.26.0-win32\\geckodriver.exe
+
+IEDriver = E:\\Softwares\\My PC Apps\\Selenium\\Webdrivers\\IEDriverServer_x64_3.14.0\\IEDriverServer.exe
+
+URL = http://learn-automation.com/

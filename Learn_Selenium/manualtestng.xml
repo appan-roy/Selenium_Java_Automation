@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="DemoXMLFileCreation" verbose="1" >
+  <test name="ManualXML" >
+    <classes>
+       <class name="recordingDemo.TestCaseRecording" />
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,6 @@
+2019-10-26 19:06:31,843 - LogGeneration -INFO - Launched Chrome Browser
+2019-10-26 19:06:33,011 - LogGeneration -INFO - Maximized Chrome Browser
+2019-10-26 19:06:33,147 - LogGeneration -INFO - The url opened
+2019-10-26 19:06:33,281 - LogGeneration -INFO - The button is clicked
+2019-10-26 19:06:33,286 - LogGeneration -INFO - Control goes to the alert popup
+2019-10-26 19:06:33,294 - LogGeneration -INFO - The positive response has been triggered
